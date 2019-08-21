@@ -1,4 +1,4 @@
 # Introduction à Python
-Cette repo contient les fichiers Python avec le code évoqué dans les leçons du cours __Introduction à Python__ sur Kodin School.
+Ce dépôt contient les fichiers Python avec le code évoqué dans les leçons du cours __Introduction à Python__ sur Kodin School.
 
-https://kodin-school.feldrise.com/cours/introduction-a-python/
+## [Accéder au cours](https://kodin-school.feldrise.com/forum/forum/introduction-a-python)
