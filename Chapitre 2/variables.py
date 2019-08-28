@@ -8,5 +8,15 @@ print(message) # Le mot clé "message" contient maintenant le message : "J'appre
 
 message = "Je viens de modifier le contenu de la variable"
 
-# Ouvrez un terminal (Ctrl + ù) puis tapez "python3 leçon2.py" pour éxecuter ce programme.
+print(message) # Le texte contenu dans la variable message a été modifié
+
+chapitre = 2 # Une variable peut contenir un nombre
+
+print(chapitre)
+
+garcon = False
+
+print(garcon)
+
+# Ouvrez un terminal (Ctrl + ù) puis tapez "python3 variables.py" pour éxecuter ce programme.
 # Si vous voyez affiché "J'apprends Python avec Kodin School" affiché dans la console, vous avez réussi à exécuter ce programme.
