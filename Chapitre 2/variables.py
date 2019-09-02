@@ -18,5 +18,5 @@ garcon = False
 
 print(garcon)
 
-# Ouvrez un terminal (Ctrl + ù) puis tapez "python3 variables.py" pour éxecuter ce programme.
+# Ouvrez un terminal (Ctrl + ù dans VS Code) puis tapez "python3 variables.py" pour éxecuter ce programme.
 # Si vous voyez affiché "J'apprends Python avec Kodin School" affiché dans la console, vous avez réussi à exécuter ce programme.
